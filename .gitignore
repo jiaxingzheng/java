@@ -5,3 +5,5 @@ bin
 .settings
 *.classpath
 *.project
+*.MF
+*.java.dump
